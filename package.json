@@ -20,4 +20,8 @@
     "node": "*"
   },
   "optionalDependencies": {}
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/comster/node-formidable-plus.git"
+  }
 }
