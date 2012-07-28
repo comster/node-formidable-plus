@@ -1,6 +1,6 @@
 {
   "name": "formidable-plus",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "dependencies": {},
   "devDependencies": {
     "gently": "0.8.0",
@@ -19,7 +19,7 @@
   "engines": {
     "node": "*"
   },
-  "optionalDependencies": {}
+  "optionalDependencies": {},
   "repository": {
     "type": "git",
     "url": "git://github.com/comster/node-formidable-plus.git"
